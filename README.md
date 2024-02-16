@@ -8,8 +8,13 @@
     Hello there
     <img src="https://media.giphy.com/media/fHFY9R9aP76BPF5Fso/giphy.gif" width="50px"/>
   </h1>
-
 </div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### :man_technologist: About Me :
 
 
 

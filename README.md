@@ -1,5 +1,12 @@
 ### Hello there ⚡
 
+
+<div id="header" style="text-align: center">
+  <img src="https://github.com/EugenySpb/EugenySpb/blob/main/Files/445798127065201.gif" width="100"/>
+</div>
+
+
+
 <!--
 **EugenySpb/EugenySpb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

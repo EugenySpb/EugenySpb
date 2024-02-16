@@ -6,7 +6,7 @@
 
   <h1 align="center">
     Hello there
-    <img src="https://media.giphy.com/media/fHFY9R9aP76BPF5Fso/giphy.gif" width="30px"/>
+    <img src="https://media.giphy.com/media/fHFY9R9aP76BPF5Fso/giphy.gif" width="50px"/>
   </h1>
 
 </div>

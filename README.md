@@ -1,16 +1,18 @@
 ### Hello there ⚡
 
-<div id="header" align="center">
+<div id="badges">
+
+id="header" align="center">
 
   <img src="https://github.com/EugenySpb/EugenySpb/blob/main/Files/445798127065201.gif" width="100"/>
 
-</div>
-<div id="badges">
+
 <img src="https://komarev.com/ghpvc/?username=EugenySpb&style=flat-square&color=blue" alt=""/>
 
 <h1>
   Hello there
-  <img src="https://giphy.com/embed/fHFY9R9aP76BPF5Fso" width="320" height="480"/>
+  <img src="https://giphy.com/embed/fHFY9R9aP76BPF5Fso" width="30px"/>
+id="header" align="center">
 </h1>
 
 </div>

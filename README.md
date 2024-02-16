@@ -1,7 +1,7 @@
 ### Hello there ⚡
 
 
-<div id="header" style="text-align: center">
+<div id="header" align="center">
   <img src="https://github.com/EugenySpb/EugenySpb/blob/main/Files/445798127065201.gif" width="100"/>
 </div>
 

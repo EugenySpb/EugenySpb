@@ -1,6 +1,6 @@
 <div id="badges" align="center">
 
-  <img src="https://github.com/EugenySpb/EugenySpb/blob/main/Files/445798127065201.gif" width="100"/>
+  <img src="https://github.com/EugenySpb/EugenySpb/blob/main/Files/445798127065201.gif" width="150"/>
   <br>
   <img src="https://komarev.com/ghpvc/?username=EugenySpb&style=flat-square&color=blue" alt=""/>
 

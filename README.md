@@ -16,11 +16,11 @@
 
 ### :man_technologist: О себе:
 Начинающий java-разработчик
-- :teacher: Успешно прошел курсы профессиональной переподготовки в Нетологии
-
-- :page_facing_up: Опыт написания собственных pet-проектов: 
-- серверные мавен-приложения на Java
-- приложения c использованием Spring и баз данных
+- :teacher: Успешно прошел курсы профессиональной переподготовки
+- :computer: Опыт написания собственных pet-проектов: 
+- :zap: Приложения c использованием Spring и баз данных (Spring Boot, Spring Data JPA, Spring Security, Hibernate, PostgreSQL)
+- :ballot_box: REST API приложения, CRUD приложения
+- :page_facing_up: Серверные maven-приложения на Java
 
 ---
 

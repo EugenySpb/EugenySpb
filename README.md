@@ -16,11 +16,15 @@
 
 ### :man_technologist: О себе:
 Начинающий java-разработчик
-- :teacher: Успешно прошел курсы профессиональной переподготовки
-- :computer: Опыт написания собственных pet-проектов: 
-- :zap: Приложения c использованием Spring и баз данных (Spring Boot, Spring Data JPA, Spring Security, Hibernate, PostgreSQL)
-- :ballot_box: REST API приложения, CRUD приложения
-- :page_facing_up: Серверные maven-приложения на Java
+
+:star2: Проекты:
+- Museum API — REST API для управления музейными мероприятиями и записи посетителей. [Подробнее](https://github.com/EugenySpb/MuseumAPI)
+- Pet-проекты с использованием Spring Boot, Spring Data JPA, Spring Security, Hibernate, PostgreSQL и Java Maven
+
+:computer: Технологии и опыт: 
+- :zap: Опыт создания приложений с Spring и базами данных
+- :ballot_box: Разработка REST API и CRUD-приложений
+- :page_facing_up: Создание серверных приложений на Java с использованием Maven для управления зависимостями и сборкой
 
 ---
 
